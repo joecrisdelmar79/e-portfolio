@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"name": "E-Portfolio Tutorial",
+		"path": "."
+	},
+	{
+		"path": "../../../Downloads/E-Portfolio Resources/assets"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "E-Portfolio Tutorial"
+  }
+}
